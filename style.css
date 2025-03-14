@@ -43,6 +43,11 @@ a{
     padding: 10px 20px;
     border-radius: 30px;
 }
+
+a:hover{
+    background: black;
+    color: red;
+}
 /* HEADER */
 
 /* MAIN */
@@ -56,7 +61,6 @@ a{
     font-size: 45px;
     margin: 20px;
     text-align: justify;
-    
 }
 
 .p2{
@@ -83,9 +87,5 @@ h2{
     height: 840px;
     width: 480px ;
     margin: 10px;
-}
-
-.sasuke{
-
 }
 /* IMAGENS */
