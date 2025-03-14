@@ -1,0 +1,53 @@
+/* RESET CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* RESET CSS */
+
+/* BODY */
+body{
+    background-color: lightblue;
+    color: white;
+}
+/* BODY */
+
+/* HEADER */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: #333;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+/* HEADER */
+
+/* MAIN */
+main{
+
+}
+
+section{
+
+}
+
+h2{
+    
+}
+
+p{
+    margin-left: 50px;
+}
+/* MAIN */
+
+.itachi{
+    height: 780px;
+    width: 480px ;
+}
